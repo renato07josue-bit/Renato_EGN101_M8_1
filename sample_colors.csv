@@ -1,0 +1,9 @@
+name,text_color,background_color
+Black text on white background,#000000,#FFFFFF
+Light gray text on white background,#CCCCCC,#FFFFFF
+Blue text on white background,#0066CC,#FFFFFF
+Red text on dark background,#FF0000,#222222
+White text on teal background,#FFFFFF,#26C0BB
+Dark gray text on black background,#333333,#000000
+White text on black background,#FFFFFF,#000000
+Yellow text on white background,#FFFF00,#FFFFFF
